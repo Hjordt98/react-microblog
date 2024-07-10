@@ -1,23 +1,16 @@
 import Container from 'react-bootstrap/Container';
-import Stack from 'react-bootstrap/Stack'
 import Header from './components/Header';
-import Sidebar from './components/Sidebar'
+import Body from './components/Body';
 import Post from './components/Posts'
 
 
 export default function App() {
-  
   return(
       <Container fluid className='App'>
         <Header/>
-        <Container>
-          <Stack direction="horizontal">
-            <Sidebar/>
-            <Container>
-              <Post/> 
-            </Container>
-          </Stack>
-        </Container>
+        <Body sidebar>
+          <Post/>
+        </Body>
     </Container>
    );
 }
