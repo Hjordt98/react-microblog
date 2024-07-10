@@ -9,7 +9,6 @@ border-bottom: 1px solid #ddd;
 .Sidebar {
   width: 120px; /* Distance to post from sidebar right side*/
   margin: 5px; /* the invisible box around sidebar element*/
-  
   position: sticky; /* puts the element at the top of the screen */
   top: 62px; /* amount of pixels element wont be placed in from top to bottom */
   align-self: flex-start; /* Allows the default alignment along the cross axis to be overridden for individual flex items. */
