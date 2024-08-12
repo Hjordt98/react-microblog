@@ -7,7 +7,7 @@
 6 silly config load:file:C:\Users\andre\Documents\VSCode\toptutors\react-microblog\UsersandreAppDataRoamingnpm\etc\npmrc
 7 verbose title npm start
 8 verbose argv "start"
-9 verbose logfile logs-max:10 dir:C:\Users\andre\Documents\VSCode\toptutors\react-microblog\UsersandreAppDataRoamingnpm-cache\_logs\2024-07-05T07_45_58_071Z-
-10 verbose logfile C:\Users\andre\Documents\VSCode\toptutors\react-microblog\UsersandreAppDataRoamingnpm-cache\_logs\2024-07-05T07_45_58_071Z-debug-0.log
+9 verbose logfile logs-max:10 dir:C:\Users\andre\Documents\VSCode\toptutors\react-microblog\UsersandreAppDataRoamingnpm-cache\_logs\2024-07-19T16_58_48_413Z-
+10 verbose logfile C:\Users\andre\Documents\VSCode\toptutors\react-microblog\UsersandreAppDataRoamingnpm-cache\_logs\2024-07-19T16_58_48_413Z-debug-0.log
 11 silly logfile done cleaning log files
-12 http fetch GET 200 https://registry.npmjs.org/npm 154ms
+12 http fetch GET 200 https://registry.npmjs.org/npm 157ms
