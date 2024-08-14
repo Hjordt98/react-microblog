@@ -11,3 +11,9 @@
 10 verbose logfile C:\Users\andre\Documents\VSCode\toptutors\react-microblog\UsersandreAppDataRoamingnpm-cache\_logs\2024-08-13T12_27_38_451Z-debug-0.log
 11 silly logfile start cleaning logs, removing 1 files
 12 silly logfile done cleaning log files
+13 verbose cwd C:\Users\andre\Documents\VSCode\toptutors\react-microblog
+14 verbose os Windows_NT 10.0.19045
+15 verbose node v22.4.0
+16 verbose npm  v10.8.1
+17 verbose exit 3221225786
+18 verbose code 3221225786
